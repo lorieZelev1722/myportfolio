@@ -200,6 +200,7 @@ content{
     color: #fff;
     transition: all 0.5s ease-in;
     text-transform: uppercase;
+    font-weight:300;
 }
 
 .about-me-btn:hover{
